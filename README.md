@@ -35,8 +35,61 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![alt text](Images/image.png)
+
+![alt text](Images/image-1.png)
+
+## Encoding
+
+### Label Encoding
+
+![alt text](Images/image-2.png)
+
+### Ordinal Encoding
+
+![alt text](Images/image-3.png)
+
+### Binary Encoding
+
+![alt text](Images/image-4.png)
+
+### One Hot Encoding
+
+![alt text](Images/image-5.png)
+
+## Transformation
+
+![alt text](Images/image-6.png)
+
+![alt text](Images/image-7.png)
+
+### Log Transformation
+
+![alt text](Images/image-8.png)
+
+### Reciprocal Transformation
+
+![alt text](Images/image-9.png)
+
+### Square Root Transformation
+
+![alt text](Images/image-10.png)
+
+### Square Transformation
+
+![alt text](Images/image-11.png)
+
+### Box-cox method
+
+![alt text](Images/image-12.png)
+
+### Yeojohnson method
+
+![alt text](Images/image-13.png)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+Data encoding and transformation on the given data is performed successfully. 
 
        
